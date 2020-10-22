@@ -1,6 +1,6 @@
 # react-microbe-ui
 
-## DEVELOPMENT IS STOPPED! DO NOT USE THIS PACKAGE
+## DEVELOPMENT IS STOPPED! DO NOT USE THIS PACKAGE!
 
 We came to the conclusion that the creation of React Components for generating CSS classes of `microbe-ui` is an overkill. 
 
